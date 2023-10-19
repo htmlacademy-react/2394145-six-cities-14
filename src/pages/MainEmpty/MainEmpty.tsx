@@ -83,3 +83,4 @@ function MainEmpty():JSX.Element {
     </div>
   );
 }
+export default MainEmpty;

@@ -335,3 +335,4 @@ function Offer(): JSX.Element {
     </div>
   );
 }
+export default Offer;

@@ -49,3 +49,5 @@ function FavoritesEmpty():JSX.Element {
     </div>
   );
 }
+export default FavoritesEmpty;
+

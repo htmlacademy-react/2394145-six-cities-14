@@ -167,3 +167,4 @@ function Favorites():JSX.Element {
     </div>
   );
 }
+export default Favorites;

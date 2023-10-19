@@ -283,3 +283,4 @@ function OfferNotLogged():JSX.Element {
     </div>
   );
 }
+export default OfferNotLogged;

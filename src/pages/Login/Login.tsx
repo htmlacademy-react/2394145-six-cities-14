@@ -27,3 +27,4 @@ function Login():JSX.Element {
     </main>
   );
 }
+export default Login;
