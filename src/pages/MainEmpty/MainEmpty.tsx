@@ -1,4 +1,6 @@
-function MainEmpty():JSX.Element {
+import { ReactElement } from 'react';
+
+function MainEmpty():ReactElement {
   return (
     <div className="page page--gray page--main">
       <header className="header">

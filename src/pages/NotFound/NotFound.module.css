@@ -1,0 +1,19 @@
+.notFoundText {
+  margin: 50px;
+  font-size: 100px;
+
+}
+
+.goMain {
+  border: solid 3px;
+  background-color: #f5f5f5;
+  margin-left: 50px;
+  transition: background-color 0.5s linear;
+  font-size: 35px;
+  color: #383838;
+}
+
+.goMain:hover {
+  background-color: gray;
+  border-color: #383838;
+}
