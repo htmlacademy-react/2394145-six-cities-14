@@ -1,4 +1,6 @@
-function OfferNotLogged():JSX.Element {
+import { ReactElement } from 'react';
+
+function OfferNotLogged():ReactElement {
   return (
     <div className="page">
       <header className="header">

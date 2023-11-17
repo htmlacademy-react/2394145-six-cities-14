@@ -1,4 +1,6 @@
-function FavoritesEmpty():JSX.Element {
+import { ReactElement } from 'react';
+
+function FavoritesEmpty():ReactElement {
   return (
     <div className="page page--favorites-empty">
       <header className="header">
